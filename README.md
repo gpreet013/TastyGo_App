@@ -5,15 +5,15 @@
 
 #### User Authentication: 
 Easily create a new account or log in securely.
-#####  Menu Browsing:
+####  Menu Browsing:
 Explore a variety of categories such as burger, salad, side, dessert, and drink, with the flexibility to modify or add new categories within the code.
-#####  Food Addons: 
+####  Food Addons: 
 Customize food items with special options available for selection.
-#####  Cart Management:
+####  Cart Management:
 Seamlessly add, remove, adjust quantities, and proceed to checkout.
-#####  Total Calculation and Receipt Generation: 
+####  Total Calculation and Receipt Generation: 
 Automatically compute the total cost of items in the cart and generate a comprehensive receipt summarizing the order details.
-#####  Secure Payment: 
+#### Secure Payment: 
 Input card payment details with confidence.
 
 ## 🔥 F E A T U R E S
