@@ -5,12 +5,6 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+## step1:
+![Screenshot_1714397977](https://github.com/gpreet013/TastyGo_App/assets/101962521/622b6707-03e5-4e09-b353-bcc716e69a4e)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
